@@ -37,6 +37,7 @@ namespace MeuApp
                 Console.WriteLine(mouse.Brand);
                 Console.WriteLine(mouse.Name);
                 Console.WriteLine(mouse.Price);
+
             }
 
         }
